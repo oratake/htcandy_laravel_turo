@@ -1,9 +1,4 @@
-# docker-laravel
+# 引用元
 
-Build Laravel's development environment using docker.
-PHP7.4/MySQL8.0/nginx/redis/node
-
-## Build
-
-- [Build for Mac](https://github.com/ucan-lab/docker-laravel/wiki/Build-for-Mac)
-- [Build for Windows](https://github.com/ucan-lab/docker-laravel/wiki/Build-for-Windows)
+Docker Laravelを使用
+https://qiita.com/ucan-lab/items/17c806973e69792ada99
